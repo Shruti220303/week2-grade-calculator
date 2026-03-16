@@ -1,0 +1,19 @@
+Test Case 1
+Input: Marks = 95
+Output: Grade A
+
+Test Case 2
+Input: Marks = 85
+Output: Grade B
+
+Test Case 3
+Input: Marks = 72
+Output: Grade C
+
+Test Case 4
+Input: Marks = 65
+Output: Grade D
+
+Test Case 5
+Input: Marks = 40
+Output: Grade F
